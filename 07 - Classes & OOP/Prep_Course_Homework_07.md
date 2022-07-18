@@ -14,7 +14,7 @@ Doblar<br>
 
 4) Agregar a la clase Vehiculo, un método que muestre su estado, es decir, a que velocidad se encuentra y su dirección. Y otro método que muestre color, tipo y cilindrada
 
-5) Crear una clase que permita utilizar las funciones creadas en la práctica del módulo 6<br>
+5) Crear una clase que permita utilizar las funciones creadas en la práctica del módulo 6 texto prueba<br>
 Verificar Primo<br>
 Valor modal<br>
 Conversión grados<br>
